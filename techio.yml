@@ -1,4 +1,11 @@
-title: Custom Template
+title: BrainFuck part 13 - Funky output
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+- title: ANSI/VT100 Control sequence
+  statement: markdowns/control.md
+- title: Text modifiers
+  statement: markdowns/text.md
+- title: Colors
+  statement: markdowns/color.md
+
